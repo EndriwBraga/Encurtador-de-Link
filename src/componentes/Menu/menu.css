@@ -1,0 +1,27 @@
+.menu {
+    position: absolute;
+    top: 20px;
+    right: 10%;
+    font-weight: bold;
+    display: flex;
+}
+
+/* text-decoration: none; para tirar o sublinhado do Meus Links */
+.menu a{
+    text-decoration: none;
+}
+
+.social {
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.menu-item {
+    color: #000;
+    background-color: #FFF;
+    padding: 8px 18px;
+    border-radius: 4px;
+    margin-right: 14px;
+
+}
